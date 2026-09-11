@@ -46,8 +46,6 @@ payload:
   - DOMAIN,plugins.jetbrains.com
   - DOMAIN,downloads.marketplace.jetbrains.com
   - DOMAIN,maven.google.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,googleusercontent.com
   # Canva
   - DOMAIN-SUFFIX,canva-apps.com
   - DOMAIN-SUFFIX,canva.com
