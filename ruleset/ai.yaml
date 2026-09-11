@@ -48,6 +48,7 @@ payload:
   - DOMAIN,maven.google.com
   - DOMAIN,download.jetbrains.com
   - DOMAIN,download-cdn.jetbrains.com
+  - DOMAIN,resources.jetbrains.com
   # Canva
   - DOMAIN-SUFFIX,canva-apps.com
   - DOMAIN-SUFFIX,canva.com
