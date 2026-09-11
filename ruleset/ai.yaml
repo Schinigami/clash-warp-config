@@ -111,3 +111,6 @@ payload:
   - DOMAIN-SUFFIX,trybons.ai
   # b.ai
   - DOMAIN-SUFFIX,b.ai
+  # Android Studio / JetBrains
+  - DOMAIN,plugins.jetbrains.com
+  - DOMAIN,downloads.marketplace.jetbrains.com
