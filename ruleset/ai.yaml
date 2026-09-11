@@ -114,3 +114,8 @@ payload:
   # Android Studio / JetBrains
   - DOMAIN,plugins.jetbrains.com
   - DOMAIN,downloads.marketplace.jetbrains.com
+- DOMAIN,clients2.google.com
+  - DOMAIN,androidpublisher.googleapis.com
+  - DOMAIN,maven.google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
