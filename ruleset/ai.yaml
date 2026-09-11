@@ -43,6 +43,11 @@ payload:
   - DOMAIN,notifications-pa.googleapis.com
   - DOMAIN,playdeveloperreporting.googleapis.com
   - DOMAIN,firebase.googleapis.com
+  - DOMAIN,plugins.jetbrains.com
+  - DOMAIN,downloads.marketplace.jetbrains.com
+  - DOMAIN,maven.google.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
   # Canva
   - DOMAIN-SUFFIX,canva-apps.com
   - DOMAIN-SUFFIX,canva.com
@@ -126,12 +131,3 @@ payload:
   # B.AI
   - DOMAIN,api.b.ai
   - DOMAIN-SUFFIX,b.ai
-  # Android Studio:
-    plugins.jetbrains.com
-    downloads.marketplace.jetbrains.com
-    clients2.google.com
-    androidpublisher.googleapis.com
-    maven.google.com
-  # Google API:
-    googleapis.com
-    googleusercontent.com
