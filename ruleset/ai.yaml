@@ -109,13 +109,15 @@ payload:
   - DOMAIN-SUFFIX,cursor-cdn.com
   # Trybons AI
   - DOMAIN-SUFFIX,trybons.ai
-  # b.ai
+  # B.AI
+  - DOMAIN,api.b.ai
   - DOMAIN-SUFFIX,b.ai
-  # Android Studio / JetBrains
-  - DOMAIN,plugins.jetbrains.com
-  - DOMAIN,downloads.marketplace.jetbrains.com
-  - DOMAIN,clients2.google.com
-  - DOMAIN,androidpublisher.googleapis.com
-  - DOMAIN,maven.google.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,googleusercontent.com
+  # Android Studio:
+    plugins.jetbrains.com
+    downloads.marketplace.jetbrains.com
+    clients2.google.com
+    androidpublisher.googleapis.com
+    maven.google.com
+  # Google API:
+    googleapis.com
+    googleusercontent.com
