@@ -29,6 +29,20 @@ payload:
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,firebaseinstallations.googleapis.com
   - DOMAIN,speechs3proto2-pa.googleapis.com
+  # Google common
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN,play.google.com
+  - DOMAIN,oauth2.googleapis.com
+  - DOMAIN,www.googleapis.com
+  - DOMAIN,dl.google.com
+  - DOMAIN,cloudcode-pa.googleapis.com
+  - DOMAIN,aicode.googleapis.com
+  - DOMAIN,clients2.google.com
+  - DOMAIN,testing.googleapis.com
+  - DOMAIN,notifications-pa.googleapis.com
+  - DOMAIN,playdeveloperreporting.googleapis.com
+  - DOMAIN,firebase.googleapis.com
   # Canva
   - DOMAIN-SUFFIX,canva-apps.com
   - DOMAIN-SUFFIX,canva.com
