@@ -1,5 +1,27 @@
 payload:
-  # AI Studio Google / Notebooklm / Gemini / Antigravity
+  # NVIDIA AI / NVIDIA Developer / NIM
+  - DOMAIN,build.nvidia.com
+  - DOMAIN,login.nvgs.nvidia.com
+  - DOMAIN,integrate.api.nvidia.com
+  - DOMAIN,api.nvidia.com
+  - DOMAIN,docs.api.nvidia.com
+  - DOMAIN,developer.nvidia.com
+  - DOMAIN-SUFFIX,nvidia.com
+
+  # NVIDIA NGC / AI Enterprise
+  - DOMAIN,api.ngc.nvidia.com
+  - DOMAIN,authn.nvidia.com
+  - DOMAIN,nvcr.io
+  - DOMAIN,layers.nvcr.io
+  - DOMAIN,helm.ngc.nvidia.com
+  - DOMAIN,files.ngc.nvidia.com
+  - DOMAIN,xfiles.ngc.nvidia.com
+  - DOMAIN,xlfiles.ngc.nvidia.com
+
+  # NVIDIA NGC telemetry
+  - DOMAIN,prod.otel.kaizen.nvidia.com
+
+  # AI Studio Google / NotebookLM / Gemini / Antigravity
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,deepmind.com
@@ -29,6 +51,7 @@ payload:
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,firebaseinstallations.googleapis.com
   - DOMAIN,speechs3proto2-pa.googleapis.com
+
   # Google common
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleusercontent.com
@@ -49,9 +72,11 @@ payload:
   - DOMAIN,download.jetbrains.com
   - DOMAIN,download-cdn.jetbrains.com
   - DOMAIN,resources.jetbrains.com
+
   # Canva
   - DOMAIN-SUFFIX,canva-apps.com
   - DOMAIN-SUFFIX,canva.com
+
   # ChatGPT
   - DOMAIN,cdn.auth0.com
   - DOMAIN-SUFFIX,chatgpt.com
@@ -62,10 +87,13 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,openai.fund
   - DOMAIN,openai.org
+
   # Mobile, Self, Browser (ChatGPT, GitHub)
   - DOMAIN-SUFFIX,events.data.microsoft.com
+
   # Телеметрия (Perplexity, ChatGPT)
   - DOMAIN,browser-intake-datadoghq.com
+
   # Claude AI
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
@@ -76,6 +104,7 @@ payload:
   - DOMAIN,downloads.intercomcdn.com
   - DOMAIN,js.intercomcdn.com
   - DOMAIN,anthropic.gallerycdn.vsassets.io
+
   # Microsoft / GitHub Copilot
   - DOMAIN,dual-a-0001.a-msedge.net
   - DOMAIN,in.appcenter.ms
@@ -99,36 +128,47 @@ payload:
   - DOMAIN,edge.microsoft.com
   - DOMAIN,fpt2.microsoft.com
   - DOMAIN,location.microsoft.com
+
   # Deepl
   - DOMAIN-SUFFIX,deepl.com
+
   # Deepseek
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN,files.deepseeksvc.com
+
   # ElevenLabs
   - DOMAIN,us-central1-xi-labs.cloudfunctions.net
   - DOMAIN-SUFFIX,elevenlabs.io
+
   # Grammarly
   - DOMAIN-SUFFIX,grammarly.com
   - DOMAIN-SUFFIX,grammarly.io
+
   # Grok
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
+
   # Kilo
   - DOMAIN-SUFFIX,kilo.ai
   - DOMAIN-SUFFIX,kiloapps.io
+
   # Perplexity
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN,perplexity-ai.cloudflareaccess.com
+
   # Pollo
   - DOMAIN-SUFFIX,pollo.ai
   - DOMAIN,app.adjust.com
+
   # Cursor
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursorapi.com
   - DOMAIN-SUFFIX,cursor-cdn.com
+
   # Trybons AI
   - DOMAIN-SUFFIX,trybons.ai
+
   # B.AI
   - DOMAIN,api.b.ai
   - DOMAIN-SUFFIX,b.ai
